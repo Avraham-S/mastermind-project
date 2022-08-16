@@ -1,0 +1,23 @@
+{
+  "name": "mastermind-project",
+  "version": "1.0.0",
+  "description": "",
+  "default": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaboy-AY/mastermind-project.git"
+  },
+  "author": "Avraham Schochet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaboy-AY/mastermind-project/issues"
+  },
+  "homepage": "https://github.com/Yaboy-AY/mastermind-project#readme",
+  "dependencies": {
+    "parcel": "^2.7.0"
+  }
+}
